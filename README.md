@@ -8,7 +8,6 @@ developed with java and mysql database<p>
 # Configuring the database
 
 import the file "consultorio.sql" to your database, the name of the database must be called "consultorio" and keep the original structure of the file<p>
-the database cannot have a password
 
 # Acess with Login
 
