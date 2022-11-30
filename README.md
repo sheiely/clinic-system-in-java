@@ -7,7 +7,7 @@ developed with java and mysql database<p>
 
 # Configuring the database
 
-import the file "dataBaseMysql.sql" to your database, the name of the database must be called "consultorio" and keep the original structure of the file<p>
+import the file "consultorio.sql" to your database, the name of the database must be called "consultorio" and keep the original structure of the file<p>
 
 # Acess with Login
 
